@@ -17,3 +17,6 @@ $ sbt
 
 
 If `browse` doesn't launch your browser, manually open [http://localhost:8080/](http://localhost:8080/) in your browser.
+
+you will see this
+![](https://counter2015.com/picture/scalatra-6-0.png)
